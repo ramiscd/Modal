@@ -1,2 +1,2 @@
 # Modal
-Created with CodeSandbox
+Um estudo da criação de um Modal
